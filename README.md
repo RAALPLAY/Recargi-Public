@@ -93,8 +93,7 @@ La arquitectura de Recargi está diseñada para ser eficiente, segura y altament
 
 ## ⚙️ Arquitectura de la Solución (Conceptual y Detallada)
 
-[Aquí iría un **diagrama de arquitectura más detallado** que muestre cada componente y cómo se interconectan: App Móvil (Kotlin), Servidor API (Node.js en EC2), Base de Datos (RDS), Almacenamiento (S3), el Scrapper (Local PC con Puppeteer), el Túnel Seguro (Cloudflared), el Panel de Administración (Web) y la Admin App (solo notificaciones). Es crucial que este diagrama sea muy claro y visualice los flujos de comunicación.]
-
+<img width="4950" height="3465" alt="Diagrama Recargi" src="https://github.com/user-attachments/assets/d144b753-34f7-48a8-adfb-b5e6a039ce1d" />
 
 _Diagrama conceptual detallado de la arquitectura de Recargi_
 
