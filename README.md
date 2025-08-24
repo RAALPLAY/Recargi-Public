@@ -22,15 +22,20 @@ Aquí puedes ver la aplicación Recargi en acción, junto con vistas de su panel
 
 ### Aplicación Móvil (Frontend)
 
-![WhatsApp Image 2025-08-24 at 3 01 38 AM](https://github.com/user-attachments/assets/8b07a525-fc1d-4185-9975-762df60d9c53)
+<img src="https://github.com/user-attachments/assets/8b07a525-fc1d-4185-9975-762df60d9c53" alt="Captura de pantalla de la app Recargi" width="200" />
+
 _Captura de pantalla: Interfaz principal de Recargi._
 
+<!-- Reproductor incrustado de Vimeo (más fiable para GitHub) -->
+  <iframe src="https://player.vimeo.com/video/1112723695?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+          width="700" height="394" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin"
+          style="display:block; margin:20px auto; border-radius: 8px;">
+  </iframe>
 
-
-https://github.com/user-attachments/assets/8cf917b7-b029-4efe-a976-809416ad553b
 _Captura de pantalla: Pantalla de añadir saldo, destacando la animación sutil en el botón._
 
-![WhatsApp Image 2025-08-24 at 3 31 20 PM](https://github.com/user-attachments/assets/69ea8b40-30c7-4f9f-8aae-0665d7879e24)
+<img src="https://github.com/user-attachments/assets/69ea8b40-30c7-4f9f-8aae-0665d7879e24" alt="Captura de pantalla de la app Recargi" width="200" />
+
 _Captura de pantalla: Avisos inteligentes._
 
 ### Panel de Administración Web
