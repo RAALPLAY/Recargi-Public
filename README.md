@@ -16,6 +16,41 @@ Este proyecto representa una solución full-stack completa, desde la conceptuali
 * **Adopción por Usuarios:** [Número de instalaciones/usuarios activos] en Google Play Store con una calificación promedio de [X.X] estrellas.
 * **Solución a una Necesidad Real:** Proporcionó una solución crítica y confiable a un problema masivo de acceso a servicios digitales en un mercado con fuertes restricciones económicas.
 
+## 📸 Imágenes y Media
+
+Aquí puedes ver la aplicación Recargi en acción, junto con vistas de su panel de administración y algunas de sus características clave.
+
+### Aplicación Móvil (Frontend)
+
+![WhatsApp Image 2025-08-24 at 3 01 38 AM](https://github.com/user-attachments/assets/8b07a525-fc1d-4185-9975-762df60d9c53)
+_Captura de pantalla: Interfaz principal de Recargi._
+
+
+
+https://github.com/user-attachments/assets/8cf917b7-b029-4efe-a976-809416ad553b
+_Captura de pantalla: Pantalla de añadir saldo, destacando la animación sutil en el botón._
+
+![WhatsApp Image 2025-08-24 at 3 31 20 PM](https://github.com/user-attachments/assets/69ea8b40-30c7-4f9f-8aae-0665d7879e24)
+_Captura de pantalla: Avisos inteligentes._
+
+### Panel de Administración Web
+
+
+_Captura de pantalla: Dashboard de Analytics en el panel de administración, mostrando ganancias y métricas._
+
+
+_Captura de pantalla: Sección de gestión de depósitos, con opciones de verificación manual._
+
+
+_Captura de pantalla: Vista del stock de Gift Cards y gestión de órdenes pendientes._
+
+### Demostración (Opcional - GIF/Video Corto)
+
+
+_GIF/Video: Demostración rápida del proceso de recarga de saldo o compra de una gift card._
+
+---
+
 ## ✨ Características Principales
 
 * **Aplicación Móvil Intuitiva (Kotlin / Jetpack Compose):**
