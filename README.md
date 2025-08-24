@@ -36,19 +36,24 @@ _Captura de pantalla: Avisos inteligentes._
 
 ### Panel de Administración Web
 
+<img height="420" alt="image" src="https://github.com/user-attachments/assets/04522079-ee5f-411e-b57b-4dbeb56316e6" />
 
 _Captura de pantalla: Dashboard de Analytics en el panel de administración, mostrando ganancias y métricas._
 
+<img height="420" alt="image" src="https://github.com/user-attachments/assets/23417c2d-8426-4e96-bf8c-670587fe3c48" />
 
 _Captura de pantalla: Sección de gestión de depósitos, con opciones de verificación manual._
 
+<img height="420" alt="image" src="https://github.com/user-attachments/assets/047c517a-a041-43b0-927a-81fa50a86c5d" />
 
-_Captura de pantalla: Vista del stock de Gift Cards y gestión de órdenes pendientes._
+_Captura de pantalla: Vista de ordenes resueltas._
 
 ### Demostración (Opcional - GIF/Video Corto)
 
 
-_GIF/Video: Demostración rápida del proceso de recarga de saldo o compra de una gift card._
+https://github.com/user-attachments/assets/803c8f45-ad36-42e9-a6ea-524654daf630
+
+_Video: Demostración de la interfaz de la app._
 
 ---
 
