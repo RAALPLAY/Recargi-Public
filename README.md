@@ -13,7 +13,7 @@ Este proyecto representa una solución full-stack completa, desde la conceptuali
 
 * **Rentabilidad Comprobada:** Generó **+$10,000 en ganancias netas** y un **flujo total de +$40,000 en ventas** en el mercado venezolano durante su primer año de operación.
 * **Operación Autónoma y Escalable:** Establecí una infraestructura y lógica de negocio que permite una operación altamente automatizada para la venta y entrega de gift cards, demostrando la robustez y escalabilidad de la solución en condiciones de mercado únicas.
-* **Adopción por Usuarios:** [Número de instalaciones/usuarios activos] en Google Play Store con una calificación promedio de [X.X] estrellas.
+* **Adopción por Usuarios:** + 16,000 instalaciones en Google Play Store con una calificación promedio de 4.0 estrellas.
 * **Solución a una Necesidad Real:** Proporcionó una solución crítica y confiable a un problema masivo de acceso a servicios digitales en un mercado con fuertes restricciones económicas.
 
 ## 📸 Imágenes y Media
@@ -80,7 +80,7 @@ _Video: Demostración de la interfaz de la app._
 * **Frontend Móvil:** Kotlin, Jetpack Compose, Android Studio, Material UI 3
 * **Backend:** Node.js, Express.js, JavaScript
 * **Bases de Datos:** MySQL (gestionado vía Amazon RDS)
-* **Cloud / Infraestructura:** Amazon Web Services (AWS) - EC2, RDS, S3, [Otros servicios AWS usados, ej. CloudWatch para monitoreo, IAM para gestión de acceso, SNS para notificaciones internas].
+* **Cloud / Infraestructura:** Amazon Web Services (AWS) - EC2, RDS, S3, (Otros servicios AWS usados, ej. CloudWatch para monitoreo).
 * **Automatización:** Node.js (con Puppeteer para scrapping), Cloudflared (para túnel seguro).
 * **Mensajería / Notificaciones:** Firebase Cloud Messaging (FCM).
 * **Herramientas:** VS Code, Git.
