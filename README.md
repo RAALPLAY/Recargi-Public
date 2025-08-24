@@ -44,7 +44,7 @@ _Captura de pantalla: Dashboard de Analytics en el panel de administración, mos
 
 _Captura de pantalla: Sección de gestión de depósitos, con opciones de verificación manual._
 
-<img height="420" alt="image" src="https://github.com/user-attachments/assets/047c517a-a041-43b0-927a-81fa50a86c5d" />
+<img height="420" alt="image" src="https://github.com/user-attachments/assets/1e76d76d-be29-4e46-bdef-6c598d8a82d7" />
 
 _Captura de pantalla: Vista de ordenes resueltas._
 
