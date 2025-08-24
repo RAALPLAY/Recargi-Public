@@ -26,11 +26,7 @@ Aquí puedes ver la aplicación Recargi en acción, junto con vistas de su panel
 
 _Captura de pantalla: Interfaz principal de Recargi._
 
-<!-- Reproductor incrustado de Vimeo (más fiable para GitHub) -->
-  <iframe src="https://player.vimeo.com/video/1112723695?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-          width="700" height="394" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin"
-          style="display:block; margin:20px auto; border-radius: 8px;">
-  </iframe>
+https://github.com/user-attachments/assets/4b5f052e-5d35-45d1-becb-e8b8ed8ba83d
 
 _Captura de pantalla: Pantalla de añadir saldo, destacando la animación sutil en el botón._
 
