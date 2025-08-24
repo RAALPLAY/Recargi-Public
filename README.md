@@ -48,7 +48,7 @@ _Captura de pantalla: Sección de gestión de depósitos, con opciones de verifi
 
 _Captura de pantalla: Vista de ordenes resueltas._
 
-### Demostración (Opcional - GIF/Video Corto)
+### Demostración (Video Corto)
 
 
 https://github.com/user-attachments/assets/803c8f45-ad36-42e9-a6ea-524654daf630
